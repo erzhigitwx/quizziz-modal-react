@@ -1,9 +1,10 @@
 body{
     background-color: royalblue;
+    max-width: 1500px;
 }
 .App{
-    margin-top: 10%;
-    margin-left: 30%;
+    right: 30%;
+    bottom: 40%;
 }
 .open-modal-btn{
     background-color: lightyellow;
@@ -88,7 +89,7 @@ body{
 .block{
     margin: 30px 100px 50px 100px;
 }
-@media screen and (max-width : 1125px){
+/* @media screen and (max-width : 1125px){
     .App{
         margin-left: 20%;
     }
@@ -114,5 +115,12 @@ body{
     }
     .App{
         margin-left: 5%;
+        margin-right: 5%;
     }
 }
+@media screen and (max-width: 560px) {
+    .App{
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+} */
