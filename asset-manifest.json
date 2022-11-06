@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quizziz-modal-react/static/css/main.a1cdb7b5.css",
+    "main.js": "/quizziz-modal-react/static/js/main.209f648d.js",
+    "index.html": "/quizziz-modal-react/index.html",
+    "main.a1cdb7b5.css.map": "/quizziz-modal-react/static/css/main.a1cdb7b5.css.map",
+    "main.209f648d.js.map": "/quizziz-modal-react/static/js/main.209f648d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1cdb7b5.css",
+    "static/js/main.209f648d.js"
+  ]
+}
